@@ -13,4 +13,4 @@ Our analysis is conducted using hypothesis testing, linear regression and genera
 
 # Instructions
 
-The reaserch notebook can be seen [here](https://github.com/BardyBard/Conflict-Escalation/blob/main/Final%20Research%20Notebook.ipynb) and the requred data is [test_predictions](https://github.com/BardyBard/Conflict-Escalation/blob/main/test_predictions.csv) and [country_indicators](https://github.com/BardyBard/Conflict-Escalation/blob/main/country_indicators.csv). The presentation can be seen [here](https://github.com/BardyBard/Conflict-Escalation/blob/main/Powerpoint_Presentation.pptx).
+The reaserch notebook can be seen [here](https://github.com/BardyBard/Conflict-Escalation/blob/main/Final%20Research%20Notebook.ipynb) and the requred data is [test_predictions](https://github.com/BardyBard/Conflict-Escalation/blob/main/test_predictions.csv) and [country_indicators](https://github.com/BardyBard/Conflict-Escalation/blob/main/country_indicators.csv). The presentation can be downloaded [here](https://github.com/BardyBard/Conflict-Escalation/blob/main/Powerpoint_Presentation.pptx).
